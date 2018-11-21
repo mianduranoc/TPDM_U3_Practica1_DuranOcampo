@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "623201436728",
+    "firebase_url": "https://tpdmu3base2a-acf86.firebaseio.com",
+    "project_id": "tpdmu3base2a-acf86",
+    "storage_bucket": "tpdmu3base2a-acf86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623201436728:android:96de8c69e5379ccf",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.practicau3_1_restaurante_duranocampomiguelangel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623201436728-5sbq5kqql3q245mnjq7bgsb5260brnje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC7JkJ-bTyiS8yeVjbbaKAe0xAt4UIjbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

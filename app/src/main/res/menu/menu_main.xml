@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mx.edu.ittepic.practicau3_1_restaurante_duranocampomiguelangel.MainActivity">
+    <item android:title="Platillos" android:id="@+id/idplatillos"/>
+    <item android:title="Bebidas" android:id="@+id/idbebidas"/>
+</menu>
